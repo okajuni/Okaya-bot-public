@@ -1,0 +1,17 @@
+{
+  "name": "db",
+  "version": "1.0.0",
+  "description": "Le bot de la team Okaya",
+  "main": "index.js",
+  "scripts": {
+    "test": "//help"
+  },
+  "author": "Okajuni Okami",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "enmap": "^5.8.2",
+    "fs": "0.0.1-security",
+    "snekfetch": "^4.0.4"
+  }
+}

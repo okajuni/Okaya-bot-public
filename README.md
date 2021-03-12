@@ -1,5 +1,7 @@
 # Okaya-bot-public
-Code du bot discord De la team Bros Corps / OKΛYA 
+Code by Bros Corps / OKΛYA 
+
+(FR VER TRANSLATE IT IF YOU NEED EN VER GO DM THE OWNER OF THE REPO)
 
 Le code du bot discord officiel de La team OKΛYA [BC] est enfin disponible ! 
 
@@ -22,9 +24,11 @@ ou externe, un programme exécutable ou un fichier de commandes.
 VOUS DEVEZ MODIFIER VOTRE PATH : https://www.youtube.com/watch?v=M2BWTJXDJXY 
 _______________________________________________________!
 
-une fois les installation finis vous pouvez lancer le bot avec :  
+# Une fois finis modifiez le token et les informations du bot avant de le lancer
 
-## node index.js 
+une fois les installation finis + les modifications finis vous pouvez lancer le bot avec :  
+
+### node index.js 
 
 Le bot donne dans ses logs beaucoup d'id (utilisateurs, channels, serveurs mais plus souvent d'utilisateurs) 
 pour les utiliser je vous recommande (et pas que pour ce bot) d'utiliser ce site : https://discord.id 
@@ -72,4 +76,3 @@ https://cloud.google.com
 
 c'était tout les principaux services (les plus connus) vous pouvez faire plus de recherche pour un hébergeur si vous le souhaitez 
 vous pouvez aussi créer votre propre serveur si vous le souhaitez (pour les utilisateurs avancées qui n'on logiquement pas besoin de ceci ou presque) 
-
