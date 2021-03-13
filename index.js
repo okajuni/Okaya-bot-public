@@ -310,6 +310,10 @@ client.on('message', message =>{
     else if (command == "website"){
      client.commands.get('website').execute(message, args);
     }
+      //commande le code du bot
+    else if (command == "code"){
+    client.commands.get('code').execute(message, args);
+    }
 });
 client.login(token); 
 // si vous utilisez heroku et que vous avez mis une variable "token" utilisez la avec    process.env.token 
